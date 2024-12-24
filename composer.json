@@ -1,0 +1,19 @@
+{
+    "name": "sjw19206/common-utils",
+    "description": "Common methods",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sjw19206\\CommonUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharon Wilson",
+            "email": "sjw19206@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
